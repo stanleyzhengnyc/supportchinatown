@@ -7,7 +7,7 @@ subheading: Covid-19 has impacted every business
 mainpitch:
   title: Chinatown needs government and community support
   description: >
-  "Starting tomorrow, all of New York City’s restaurants, bars and cafes will be restricted to selling food through take-out or delivery only in an attempt to contain COVID-19. While most of the city’s small businesses are now grappling with the new economic reality, most Chinatown enterprises in Manhattan have been suffering, some more drastic than others, since late January. That’s already two months of reduced business, with some restaurants and stores reporting an 85% drop in sales." [-NPR MarketPlace](https://www.marketplace.org/2020/03/16/as-covid-19-spreads-manhattans-chinatown-contemplates-a-bleak-future/)
+  "Starting tomorrow, all of New York City’s restaurants, bars and cafes will be restricted to selling food through take-out or delivery only in an attempt to contain COVID-19. While most of the city’s small businesses are now grappling with the new economic reality, most Chinatown enterprises in Manhattan have been suffering, some more drastic than others, since late January. That’s already two months of reduced business, with some restaurants and stores reporting an 85% drop in sales." - NPR
 description: >-
   "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 intro:
